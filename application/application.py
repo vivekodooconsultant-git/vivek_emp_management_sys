@@ -10,4 +10,7 @@ def func_3():
 
 def func_4():
 	pass
+	
+def fun_5():
+	pass
 
